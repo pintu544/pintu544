@@ -8,7 +8,7 @@
 <h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://github.com/pintu544/my-profile/blob/master/pintugithub.jpg" alt="pintu" /> </p>
+
 
 
 - 🔭 I’m currently working on web application projects using HTML,CSS and JS and other side using JSP and Firebase.
