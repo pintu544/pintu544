@@ -19,13 +19,13 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jm251](https://github.com/pintu544)
+- 👨‍💻 All of my projects are available at [https://github.com/pintu544](https://github.com/pintu544)
 
-- 📝 I regulary write articles on [jm251.github.io](https:jm251.github.io)
+- 📝 I regulary write articles on [pintu544.github.io](https:jm251.github.io)
 
 - 💬 Ask me about **Java,Web Developement,OS,DBMS,DS&Algo,System Design,React.
 
-- 📫 How to reach me **jm0046476@gmail.com**
+- 📫 How to reach me **pksharmagh4@gmail.com**
 
 - ⚡ Fun fact **Learn and share knowledge among Students**
 
