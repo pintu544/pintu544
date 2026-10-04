@@ -14,7 +14,7 @@
 
 ## 💼 Open for freelance projects
 
-I'm a **Full-Stack Developer (3.5 yrs)** from Mumbai, India. I help startups and businesses ship web apps and AI features fast — fixed scope, weekly demos, clean handover with docs.
+I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups and businesses ship web apps and AI features fast — fixed scope, weekly demos, clean handover with docs.
 
 **What I can build for you:**
 - 🤖 AI agents & chatbots (RAG, tool-calling, MCP)
