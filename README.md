@@ -60,6 +60,13 @@ I'm a **Full-Stack Developer (3.5 yrs)** from Mumbai, India. I help startups and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu544&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pintu544/pintu544/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## 🤝 Let's connect
 
