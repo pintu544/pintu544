@@ -1,102 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="740px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="15px">
-<rect width="985px" height="740px" fill="#0d1117" rx="15"/>
-<rect width="985px" height="42px" fill="#161b22" rx="15"/>
-<rect y="28px" width="985px" height="14px" fill="#161b22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="680px" height="1363px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="15px">
+<rect width="680px" height="1363px" fill="#0d1117" rx="15"/>
+<rect width="680px" height="42px" fill="#161b22" rx="15"/>
+<rect y="28px" width="680px" height="14px" fill="#161b22"/>
 <circle cx="30" cy="26" r="7" fill="#ff5f57"/>
 <circle cx="52" cy="26" r="7" fill="#febc2e"/>
 <circle cx="74" cy="26" r="7" fill="#28c840"/>
-<text x="492" y="31" fill="#8b949e" font-size="13px" text-anchor="middle">pintu@github: ~/profile</text>
-<line x1="0" y1="42" x2="985" y2="42" stroke="#30363d" stroke-width="1"/>
-<g fill="#c9d1d9" font-size="17px">
-<text x="26" y="74.0" textLength="408" lengthAdjust="spacingAndGlyphs">                                        </text>
-<text x="26" y="94.5" textLength="408" lengthAdjust="spacingAndGlyphs">                  .....                 </text>
-<text x="26" y="115.0" textLength="408" lengthAdjust="spacingAndGlyphs">            ...,,,,,::,,,,,:,.          </text>
-<text x="26" y="135.5" textLength="408" lengthAdjust="spacingAndGlyphs">          ..,:,::::;;;::::;i;:.         </text>
-<text x="26" y="156.0" textLength="408" lengthAdjust="spacingAndGlyphs">      .....,::irirrrii;;;irrri:   ,.    </text>
-<text x="26" y="176.5" textLength="408" lengthAdjust="spacingAndGlyphs">      ,,,,,;iirsssrri;;irssrsri, ,:,    </text>
-<text x="26" y="197.0" textLength="408" lengthAdjust="spacingAndGlyphs">   ,i:,,:::;irsXXXXsiiirrssssss; ri:.   </text>
-<text x="26" y="217.5" textLength="408" lengthAdjust="spacingAndGlyphs"> .:iA2s::;,;irXXX2AsrrrrrrrsXXAii3si,.  </text>
-<text x="26" y="238.0" textLength="408" lengthAdjust="spacingAndGlyphs"> ,iX235AsrrXXX2535AXsrrrrrrsXX3A2h5r;,  </text>
-<text x="26" y="258.5" textLength="408" lengthAdjust="spacingAndGlyphs"> ,iAssXA25552A23h32AAXXXsrrrssM53H3XAX: </text>
-<text x="26" y="279.0" textLength="408" lengthAdjust="spacingAndGlyphs"> :XX:,.,:is225hMMMh52XXri;:,:ih2:BMXMHX,</text>
-<text x="26" y="299.5" textLength="408" lengthAdjust="spacingAndGlyphs"> :2352225AXA2hGGHGShX;::::,:,:325@3r#92,</text>
-<text x="26" y="320.0" textLength="408" lengthAdjust="spacingAndGlyphs">.;3G#SMHh5hHHGSSHGSM5525MMhh32h3hSAi3GH:</text>
-<text x="26" y="340.5" textLength="408" lengthAdjust="spacingAndGlyphs">.;3HHX;A..sXX5hh55352XX:,A3hSGM3GMssGGh:</text>
-<text x="26" y="361.0" textLength="408" lengthAdjust="spacingAndGlyphs">.rMhh35AXssrirXXrssii:i:,XX:5h3h#Mr2@@5;</text>
-<text x="26" y="381.5" textLength="408" lengthAdjust="spacingAndGlyphs">,Ah33hMMMh3AXrX2ssi;iXA55225223H&amp;G:A@BXi</text>
-<text x="26" y="402.0" textLength="408" lengthAdjust="spacingAndGlyphs">;Mh525hhh32AAA53XssrrrX5hhh322M#BH22BGir</text>
-<text x="26" y="422.5" textLength="408" lengthAdjust="spacingAndGlyphs">AHM3555555255235XsssXXsX25552AGH2hH2XXii</text>
-<text x="26" y="443.0" textLength="408" lengthAdjust="spacingAndGlyphs">X3HHh35535525hh5XsssXXAXXA5353SMs2G#5i;;</text>
-<text x="26" y="463.5" textLength="408" lengthAdjust="spacingAndGlyphs">is3HMhh333525Hh5AAXrsA22A253hhG3XA2HMAi:</text>
-<text x="26" y="484.0" textLength="408" lengthAdjust="spacingAndGlyphs">:rAMMMhhhMMhhhh5AArrs5h35553hhMAX2225Ar,</text>
-<text x="26" y="504.5" textLength="408" lengthAdjust="spacingAndGlyphs">.ir3HHHMMGhH9SGHhMMh25HMhhhMhM3AXA255X;.</text>
-<text x="26" y="525.0" textLength="408" lengthAdjust="spacingAndGlyphs">.:i2HHHHGH3332#&amp;S223AX3MMMhh3hA5hGHH5s: </text>
-<text x="26" y="545.5" textLength="408" lengthAdjust="spacingAndGlyphs"> ,irhHGGH32Xr:i5X, .isAhHMh3h2XMh#9#3i. </text>
-<text x="26" y="566.0" textLength="408" lengthAdjust="spacingAndGlyphs"> .:iXMHH3X;;:,:.,:,..:r2Mh3h3Xh#HG9HX:  </text>
-<text x="26" y="586.5" textLength="408" lengthAdjust="spacingAndGlyphs">  .ir2hh5sA2333srAXXsi;X3hh3XM&amp;B&amp;GG2;.  </text>
-<text x="26" y="607.0" textLength="408" lengthAdjust="spacingAndGlyphs">   ,ii2M35353333h52222XAhhh25B&amp;BBM5r,   </text>
-<text x="26" y="627.5" textLength="408" lengthAdjust="spacingAndGlyphs">    ,;r3hMhAXXiirriir55MHM5hBB&amp;9H2i,    </text>
-<text x="26" y="648.0" textLength="408" lengthAdjust="spacingAndGlyphs">     ,:rAhS#HMGHHM5hGGMGG5H@999M2;.     </text>
-<text x="26" y="668.5" textLength="408" lengthAdjust="spacingAndGlyphs">      .,;X3H##GHGG#9#Hhh5G@@GM3s:.      </text>
-<text x="26" y="689.0" textLength="408" lengthAdjust="spacingAndGlyphs">        .,iX2h353G99G33AhB#H2r;,        </text>
-<text x="26" y="709.5" textLength="408" lengthAdjust="spacingAndGlyphs">          .,;s23MHGHH3AAHM5s:.          </text>
+<text x="340" y="31" fill="#8b949e" font-size="13px" text-anchor="middle">pintu@github: ~/profile</text>
+<line x1="0" y1="42" x2="680" y2="42" stroke="#30363d" stroke-width="1"/>
+<g fill="#c9d1d9" font-size="14px">
+<text x="94" y="70">                                                            </text>
+<text x="94" y="87">                           @B%%BB@@@    @@                  </text>
+<text x="94" y="104">                  @BBBBBB%&amp;&amp;&amp;WWW&amp;&amp;88%%%88&amp;8%@               </text>
+<text x="94" y="120">           @@  @B%8&amp;MWM#MMW&amp;&amp;#**##M&amp;#MW#oo*#W%B@            </text>
+<text x="94" y="137">         @BB@B8888WMMM*o*#*ahkhhoo#ooMakbbkh*&amp;%    B@       </text>
+<text x="94" y="154">        @B%%B&amp;8%8M*oahdppdpqpbdbko*o*hpqqqpbh*&amp;@  %&amp;WB      </text>
+<text x="94" y="171">     @B@@&amp;&amp;8W&amp;8M*akkdpwwwwqqqpdahaabdwwwqqqqdko&amp; @o##%@     </text>
+<text x="94" y="188">    BWo*&amp;#&amp;&amp;**M#oakdpqmO00OZmwakbbbdpwwwqqwwwqd* &amp;qohW%@@   </text>
+<text x="94" y="204">  %8Wdq0wb#&amp;*o*W#ohbpmZwZQLQOddqbbdddppqwmZOZOwa@YCdq*&amp;8B@  </text>
+<text x="94" y="221"> @MbkmQYXCZhohaoadpwZQLLCJJQZwmpbddddddpqmO00Qzb*rUCZh#M%B@ </text>
+<text x="94" y="238"> @W#qQCUYYYJQQO0QLQZOLUcvcXQ00mqqqqppdddpqwOOJ)wU{YnLpba#%@ </text>
+<text x="94" y="255"> @*aOLwbbwZOLCYXzXULQJXvuvcULLLQQQOZmwqdddpwZY)ZJjfj0QCUChM@</text>
+<text x="94" y="272">@@owJw*#&amp;8&amp;&amp;Mobw0UYJXcnrjrrnzXU0O0mpkho#MM#hpC/wBc`1pCv\j0d%</text>
+<text x="94" y="288">@Bh0cCCQmqmZOqppw0JJu//fjt|)fc0ba#M&amp;&amp;8&amp;8&amp;W&amp;&amp;#Cfmq; jpZ|+)ck8</text>
+<text x="94" y="305">B%kUrt({{)/){(tfjjjj\)1(ff|{(nUL00LJcxvUCLQOqXjYJ[]Xwku&lt;}1pW</text>
+<text x="94" y="322">%&amp;hUr|\/C*YU8M8muzurrf/fnurfxuvcYU0w0Ucn/1)\jnrzn[UQqqcUu[w#</text>
+<text x="94" y="339">88muxjjYZbwC8qMqOo#qQCzJ0OCUQOOk#m#@% cvdZx/jurz|!UOd0I"~jba</text>
+<text x="94" y="356">8&amp;OnuvuunxYCCQ0Zqwqbbm0ZppmwbhhhabkkboLmkkQccUjc1~Ymbz. "nkb</text>
+<text x="94" y="372">&amp;kzuvzzunxrjjjnvXQZqpZUJwqwdaokw0QUcczYYccUJUYt/^ nh#z  -Obd</text>
+<text x="94" y="389">8Q\ucUJJXunnnucYQOLQLYcXOmZwdbbbpZJzuunncXYCJu/?;+uYLLI"xdbd</text>
+<text x="94" y="406">qu|uvXUUYXzzzXUJUYYJJYuUOmwwwwZZwqmLYXXXXYYCCx}rcnzf/0Lvmkbb</text>
+<text x="94" y="423">ZYfrtnvvcXYXXXYYYYUYYvuJOwqqwmZOO0ZmOQLUYYYUYt[zwCv?]uZwphkh</text>
+<text x="94" y="440">dQCv/jxuuczczzXUUJUrfncUQOOOwqmO0QQQOQCYzccvn/)U00QX?^(Odaa*</text>
+<text x="94" y="456">obwCxjxxxuvvcczzcUXvfnvUQQCmdpqQUYUJJCJYzcvnnftQ00QLLXuXCwaM</text>
+<text x="94" y="473">&amp;awmzjjrruununjjnuxuxnuXLCQqqpqQvnvczXXzcvnnurzO0CCJYYYJOd*8</text>
+<text x="94" y="490">%#ddQnfjjjjxrftjc(]{)/frzunxncYQzjrnnuuuuxnunnQUwZ0CYYYCwhW%</text>
+<text x="94" y="507">B&amp;addvjfjttf/\jvYurYn?&lt;_{tcvr/JZLcrrrxnunucvjLLcUrrxjrzLq*8@</text>
+<text x="94" y="524">@%MdhOxft\/t/jcXULOq*mf)xbWB8obmOQcjjjrnczvuzpncc(}}{(u0hWB </text>
+<text x="94" y="540"> @&amp;*haCnf\//xXCOpdkM&amp;#Mak*#8%8ModZQzjjrvzvuYOmf\zf(}{\Xw*%@ </text>
+<text x="94" y="557">  B&amp;obkCnjfxc0da*oho*a*B8#a#MW&amp;8MawLvnvvvccQQ{t&gt;[f|[|cmh&amp;@  </text>
+<text x="94" y="574">   B&amp;kbpJvxuz00UzujjrrzQwLYJCJQwbhbQzuunvYQ0{i~-;{j\v0hWB   </text>
+<text x="94" y="591">    B&amp;kkdLvruJzvCzXYczzuncJCCUCCYCmJnunnuLC(&gt;&gt;i-+[zvOhWB    </text>
+<text x="94" y="608">     B&amp;aadCxxvxvCmZOwboabdkkbhawYYUrtjjuLn&gt;{~&lt;~?tfOwa&amp;B     </text>
+<text x="94" y="624">      @8*okQJzf|{\ununvXzzXCCUnjjxx(\fXX}"~)+-)\cOhM8@      </text>
+<text x="94" y="641">        BWMobOzx\{}(|{}({{\f\){1\xxtjXn!^I]t)/uQwo8B@       </text>
+<text x="94" y="658">         @88&amp;od0Yuf)(rvcuu|[][{/unvcQj!!+_/YX0qoW%@         </text>
+<text x="94" y="675">           @B@&amp;#hqOCzvzvnj)1}}|xXzCQc]}(tcLbk*&amp;%@           </text>
+<text x="94" y="692">              @B8&amp;#kwLYcnxttjfjrz0QLxjvY0d*&amp;8B@             </text>
 </g>
-<text x="470" y="78">
+<text x="94" y="752">
 <tspan fill="#3fb950">$</tspan>
 <tspan fill="#e6edf3"> whoami</tspan>
 </text>
-<text x="470" y="105">
+<text x="94" y="779">
 <tspan fill="#e6edf3">Pintu Kumar</tspan>
 </text>
-<text x="470" y="132">
+<text x="94" y="806">
 <tspan fill="#8b949e">Freelance Full-Stack Developer</tspan>
 </text>
-<text x="470" y="186">
+<text x="94" y="860">
 <tspan fill="#3fb950">$</tspan>
 <tspan fill="#e6edf3"> cat stack.txt</tspan>
 </text>
-<text x="470" y="213">
+<text x="94" y="887">
 <tspan fill="#79c0ff">React · TypeScript · Node.js</tspan>
 </text>
-<text x="470" y="240">
+<text x="94" y="914">
 <tspan fill="#79c0ff">Python · FastAPI · PostgreSQL</tspan>
 </text>
-<text x="470" y="267">
+<text x="94" y="941">
 <tspan fill="#79c0ff">MongoDB · AWS · Docker</tspan>
 </text>
-<text x="470" y="321">
+<text x="94" y="995">
 <tspan fill="#3fb950">$</tspan>
 <tspan fill="#e6edf3"> ./hire_me --open-for-work</tspan>
 </text>
-<text x="470" y="348">
+<text x="94" y="1022">
 <tspan fill="#e6edf3">+ AI agents &amp; chatbots</tspan>
 </text>
-<text x="470" y="375">
+<text x="94" y="1049">
 <tspan fill="#e6edf3">+ Voice apps &amp; Alexa skills</tspan>
 </text>
-<text x="470" y="402">
+<text x="94" y="1076">
 <tspan fill="#e6edf3">+ Dashboards &amp; internal tools</tspan>
 </text>
-<text x="470" y="429">
+<text x="94" y="1103">
 <tspan fill="#e6edf3">+ Full MVPs, idea to launch</tspan>
 </text>
-<text x="470" y="483">
+<text x="94" y="1157">
 <tspan fill="#3fb950">$</tspan>
 <tspan fill="#e6edf3"> open contact</tspan>
 </text>
-<text x="470" y="510">
+<text x="94" y="1184">
 <tspan fill="#ffa657">@ </tspan>
 <tspan fill="#e6edf3">pksharmagh4@gmail.com</tspan>
 </text>
-<text x="470" y="537">
+<text x="94" y="1211">
 <tspan fill="#ffa657">in </tspan>
 <tspan fill="#79c0ff">linkedin.com/in/pintukumar12</tspan>
 </text>
-<text x="470" y="564">
+<text x="94" y="1238">
 <tspan fill="#ffa657">&gt; </tspan>
 <tspan fill="#79c0ff">pintukr.in</tspan>
 </text>
-<text x="470" y="618" textLength="18" lengthAdjust="spacingAndGlyphs"><tspan fill="#3fb950">$ </tspan></text>
-<rect x="492" y="605" width="10" height="17" fill="#3fb950"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
-<rect x="0.5" y="0.5" width="984px" height="739px" fill="none" stroke="#30363d" stroke-width="1" rx="15"/>
+<text x="94" y="1292"><tspan fill="#3fb950">$ </tspan></text>
+<rect x="118" y="1279" width="10" height="17" fill="#3fb950"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<rect x="0.5" y="0.5" width="679px" height="1362px" fill="none" stroke="#30363d" stroke-width="1" rx="15"/>
 </svg>
