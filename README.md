@@ -1,7 +1,7 @@
 <a href="https://github.com/pintu544/pintu544">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/main/dark_mode.svg?v=5">
-    <img alt="Pintu Kumar's terminal-style GitHub profile" src="https://raw.githubusercontent.com/pintu544/pintu544/main/light_mode.svg?v=5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/main/dark_mode.svg?v=6">
+    <img alt="Pintu Kumar's terminal-style GitHub profile" src="https://raw.githubusercontent.com/pintu544/pintu544/main/light_mode.svg?v=6">
   </picture>
 </a>
 
