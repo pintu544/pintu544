@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Pintu%20Kumar&fontSize=48&fontColor=ffffff" alt="header" />
-
-<p align="center">
-  <a href="https://github.com/pintu544">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Pintu+Kumar+%F0%9F%91%8B;Freelance+Full-Stack+Developer;AI+agents+%7C+Voice+apps+%7C+Dashboards;Let%27s+ship+your+MVP+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/pintu544/pintu544">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/main/dark_mode.svg">
+    <img alt="Pintu Kumar's terminal-style GitHub profile" src="https://raw.githubusercontent.com/pintu544/pintu544/main/light_mode.svg">
+  </picture>
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pintu544&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
