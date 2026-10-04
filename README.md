@@ -1,171 +1,73 @@
-<a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&color=2958F7&center=true&multiline=true&width=600&height=60&lines=Welcome+To+My+GitHub">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Pintu%20Kumar&fontSize=48&fontColor=ffffff" alt="header" />
+
+<p align="center">
+  <a href="https://github.com/pintu544">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Pintu+Kumar+%F0%9F%91%8B;Freelance+Full-Stack+Developer;AI+agents+%7C+Voice+apps+%7C+Dashboards;Let%27s+ship+your+MVP+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
-</div>
-<h1 align="center">Hi there It's me Pintu KUMAR Sharma👋</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-
-
-
-- 🔭 I’m currently working on web application projects using HTML,CSS and JS and other side using JSP and Firebase.
-- 🌱 I’m currently learning  **DSA,Frontend,Backend,React**.
-- 👯 I’m looking to collaborate on Backend and React project.
-- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
-- 🔭 I’m currently working on ** Tracker App**
-
-- 👯 I’m looking to collaborate on **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/pintu544](https://github.com/pintu544)
-
-- 📝 I regulary write articles on [pintu544.github.io](https:jm251.github.io)
-
-- 💬 Ask me about **Java,Web Developement,OS,DBMS,DS&Algo,System Design,React.
-
-- 📫 How to reach me **pksharmagh4@gmail.com**
-
-- ⚡ Fun fact **Learn and share knowledge among Students**
-
-
-
-
-<p align="left">
-
- 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-
-<img src="https://img.icons8.com/office/16/000000/react.png" alt="react" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
-
-<img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-API-vkontakte-others-inmotus-design-3.png" alt="apis" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="40" height="40"/>
-
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="redux" width="40" height="40"/>
-
-
-
-</p><br><br>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jm251)  <br><br>
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a><br><br>
-
-
-
-
-
-
-<br><br>
-I strongly believe we the professionals of the tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives easier. I am also interested in travel, innovation, and volunteering and Experienced designing and developing software for business solutions, Software engineer with experience in multiple settings can design and develop programs using the latest and most appropriate technology. I am a technology enthusiast who loves to do creative things and learn new updates in the technology field and upgrade my skills. I love challenging myself as an engineer and like to develop applications that can benefit society.  <br><br>
-
-Happy coding !!
-
-<h3><strong>connect with me!</strong></h3><br><br>
-
-<p align="center">
-<a href="https://twitter.com/PintuKu41020756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/pintu-kumar-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13448269/pintu-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/pintukumard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100015925119091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.instagram.com/fullstoprockey/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UC4pvfTRkx3gQmIlP5vRoIPA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/8709793486jio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_w487/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pintu" height="30" width="30" /></a>
 </p>
 
-
-
-
-  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pintu544&show_icons=true&locale=en&layout=compact" alt="Pintu Kumar profile github states" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&locale=en" alt="pintu-kumar" /></p>
-
-
-# 🚀 Actions 🚀
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu544&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
-</div>
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu544&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pintu544&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-<br>
-
-<!-- Dynamic Quotes -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-</div>
-
- 
-<br>
-
-
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 💯
-
-<!-- wakatime 统计 -->
-<table align="center">
-  <tr>
-    <td valign="top">  
-    <!--START_SECTION:waka-->
-
- Last Updated on 30/09/2022 02:31:25 UTC
-<!--END_SECTION:waka-->
-    </td>
-  </tr>
-</table>
-
-<!-- metrics 基础资料 -->
-
-
-<!-- just img -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" />
-</div>
-
-
-# Languages
-<h4 align="center">Most used languages (by number of commits)</h4>
 <p align="center">
-	<a href="https://profile.codersrank.io/user/pintu655#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
-	</a>
+  <img src="https://komarev.com/ghpvc/?username=pintu544&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/pintukumar12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pintukr.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-### Thanks for Visiting my GitHub Profile!
+## 💼 Open for freelance projects
 
----
+I'm a **Full-Stack Developer (3.5 yrs)** from Mumbai, India. I help startups and businesses ship web apps and AI features fast — fixed scope, weekly demos, clean handover with docs.
 
+**What I can build for you:**
+- 🤖 AI agents & chatbots (RAG, tool-calling, MCP)
+- 🎙️ Voice apps & Alexa skills
+- 📊 Real-time dashboards & internal tools
+- 🚀 Full MVPs — from idea to deployed product
+
+📫 **Have a project in mind?** Mail me at [pksharmagh4@gmail.com](mailto:pksharmagh4@gmail.com) or ping me on [LinkedIn](https://www.linkedin.com/in/pintukumar12/).
+
+## 🛠️ Tech stack
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+## 🚀 Featured projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **Interview Copilot** | Real-time AI voice interview assistant — CV-grounded answers via NVIDIA Nemotron | [Live demo](https://interview-copilot-p0pb.onrender.com) · [Code](https://github.com/pintu544/interview-copilot) |
+| **MarketPulse** | Alexa+ market-research skill — 12 MCP tools, AWS Bedrock, voice shopping | [Live demo](https://web-production-331d9.up.railway.app/) · [Code](https://github.com/pintu544/marketpulse) |
+| **SnapFix Studio** | AI photo transformer — background removal, outpainting, upscaling (Cloudinary) | [Live demo](https://snapfix-studio-production-9983.up.railway.app) · [Code](https://github.com/pintu544/snapfix-studio) |
+| **LiveDocs** | AI research agent comparing libraries using live documentation (SerpApi) | [Code](https://github.com/pintu544/livedocs-research-agent) |
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=pintu544&theme=tokyonight" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu544&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+## 🤝 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/pintukumar12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pintukr.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://devpost.com/pintu544"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
+  <a href="mailto:pksharmagh4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
