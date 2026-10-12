@@ -1,7 +1,7 @@
 <a href="https://github.com/pintu544/pintu544">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/main/dark_mode.svg?v=6">
-    <img alt="Pintu Kumar's terminal-style GitHub profile" src="https://raw.githubusercontent.com/pintu544/pintu544/main/light_mode.svg?v=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/main/dark_mode.svg?v=7">
+    <img alt="Pintu Kumar's terminal-style GitHub profile" src="https://raw.githubusercontent.com/pintu544/pintu544/main/light_mode.svg?v=7">
   </picture>
 </a>
 
@@ -39,6 +39,11 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 | **MarketPulse** | Alexa+ market-research skill — 12 MCP tools, AWS Bedrock, voice shopping | [Live demo](https://web-production-331d9.up.railway.app/) · [Code](https://github.com/pintu544/marketpulse) |
 | **SnapFix Studio** | AI photo transformer — background removal, outpainting, upscaling (Cloudinary) | [Live demo](https://snapfix-studio-production-9983.up.railway.app) · [Code](https://github.com/pintu544/snapfix-studio) |
 | **LiveDocs** | AI research agent comparing libraries using live documentation (SerpApi) | [Code](https://github.com/pintu544/livedocs-research-agent) |
+
+## 🤝 Open source
+
+- **[OWASP/cve-lite-cli #1297](https://github.com/OWASP/cve-lite-cli/pull/1297)** — `--json` now records cliVersion, scannedAt and the effective options, with a usage-capture + redaction design the maintainer called the bar for future work *(approved, awaiting merge)*
+- **[OWASP/cve-lite-cli #1330](https://github.com/OWASP/cve-lite-cli/pull/1330)** — making `--debug` emit one diagnostic bundle that's safe to attach (home-directory redaction) *(in review)*
 
 ## 📈 GitHub stats
 

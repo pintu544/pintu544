@@ -1,117 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680px" height="1444px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="15px">
-<rect width="680px" height="1444px" fill="#ffffff" rx="15"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="680px" height="654px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15px">
+<rect width="680px" height="654px" fill="#ffffff" rx="15"/>
 <rect width="680px" height="42px" fill="#f6f8fa" rx="15"/>
 <rect y="28px" width="680px" height="14px" fill="#f6f8fa"/>
 <circle cx="30" cy="26" r="7" fill="#ff5f57"/>
 <circle cx="52" cy="26" r="7" fill="#febc2e"/>
 <circle cx="74" cy="26" r="7" fill="#28c840"/>
-<text x="340" y="31" fill="#59636e" font-size="13px" text-anchor="middle">pintu@github: ~/profile</text>
-<line x1="0" y1="42" x2="680" y2="42" stroke="#d0d7de" stroke-width="1"/>
-<g fill="#24292f" font-size="14px">
-<text x="94" y="70">                                                            </text>
-<text x="94" y="87">                           @B%%BB@@@    @@                  </text>
-<text x="94" y="104">                  @BBBBBB%&amp;&amp;&amp;WWW&amp;&amp;88%%%88&amp;8%@               </text>
-<text x="94" y="120">           @@  @B%8&amp;MWM#MMW&amp;&amp;#**##M&amp;#MW#oo*#W%B@            </text>
-<text x="94" y="137">         @BB@B8888WMMM*o*#*ahkhhoo#ooMakbbkh*&amp;%    B@       </text>
-<text x="94" y="154">        @B%%B&amp;8%8M*oahdppdpqpbdbko*o*hpqqqpbh*&amp;@  %&amp;WB      </text>
-<text x="94" y="171">     @B@@&amp;&amp;8W&amp;8M*akkdpwwwwqqqpdahaabdwwwqqqqdko&amp; @o##%@     </text>
-<text x="94" y="188">    BWo*&amp;#&amp;&amp;**M#oakdpqmO00OZmwakbbbdpwwwqqwwwqd* &amp;qohW%@@   </text>
-<text x="94" y="204">  %8Wdq0wb#&amp;*o*W#ohbpmZwZQLQOddqbbdddppqwmZOZOwa@YCdq*&amp;8B@  </text>
-<text x="94" y="221"> @MbkmQYXCZhohaoadpwZQLLCJJQZwmpbddddddpqmO00Qzb*rUCZh#M%B@ </text>
-<text x="94" y="238"> @W#qQCUYYYJQQO0QLQZOLUcvcXQ00mqqqqppdddpqwOOJ)wU{YnLpba#%@ </text>
-<text x="94" y="255"> @*aOLwbbwZOLCYXzXULQJXvuvcULLLQQQOZmwqdddpwZY)ZJjfj0QCUChM@</text>
-<text x="94" y="272">@@owJw*#&amp;8&amp;&amp;Mobw0UYJXcnrjrrnzXU0O0mpkho#MM#hpC/wBc`1pCv\j0d%</text>
-<text x="94" y="288">@Bh0cCCQmqmZOqppw0JJu//fjt|)fc0ba#M&amp;&amp;8&amp;8&amp;W&amp;&amp;#Cfmq; jpZ|+)ck8</text>
-<text x="94" y="305">B%kUrt({{)/){(tfjjjj\)1(ff|{(nUL00LJcxvUCLQOqXjYJ[]Xwku&lt;}1pW</text>
-<text x="94" y="322">%&amp;hUr|\/C*YU8M8muzurrf/fnurfxuvcYU0w0Ucn/1)\jnrzn[UQqqcUu[w#</text>
-<text x="94" y="339">88muxjjYZbwC8qMqOo#qQCzJ0OCUQOOk#m#@% cvdZx/jurz|!UOd0I"~jba</text>
-<text x="94" y="356">8&amp;OnuvuunxYCCQ0Zqwqbbm0ZppmwbhhhabkkboLmkkQccUjc1~Ymbz. "nkb</text>
-<text x="94" y="372">&amp;kzuvzzunxrjjjnvXQZqpZUJwqwdaokw0QUcczYYccUJUYt/^ nh#z  -Obd</text>
-<text x="94" y="389">8Q\ucUJJXunnnucYQOLQLYcXOmZwdbbbpZJzuunncXYCJu/?;+uYLLI"xdbd</text>
-<text x="94" y="406">qu|uvXUUYXzzzXUJUYYJJYuUOmwwwwZZwqmLYXXXXYYCCx}rcnzf/0Lvmkbb</text>
-<text x="94" y="423">ZYfrtnvvcXYXXXYYYYUYYvuJOwqqwmZOO0ZmOQLUYYYUYt[zwCv?]uZwphkh</text>
-<text x="94" y="440">dQCv/jxuuczczzXUUJUrfncUQOOOwqmO0QQQOQCYzccvn/)U00QX?^(Odaa*</text>
-<text x="94" y="456">obwCxjxxxuvvcczzcUXvfnvUQQCmdpqQUYUJJCJYzcvnnftQ00QLLXuXCwaM</text>
-<text x="94" y="473">&amp;awmzjjrruununjjnuxuxnuXLCQqqpqQvnvczXXzcvnnurzO0CCJYYYJOd*8</text>
-<text x="94" y="490">%#ddQnfjjjjxrftjc(]{)/frzunxncYQzjrnnuuuuxnunnQUwZ0CYYYCwhW%</text>
-<text x="94" y="507">B&amp;addvjfjttf/\jvYurYn?&lt;_{tcvr/JZLcrrrxnunucvjLLcUrrxjrzLq*8@</text>
-<text x="94" y="524">@%MdhOxft\/t/jcXULOq*mf)xbWB8obmOQcjjjrnczvuzpncc(}}{(u0hWB </text>
-<text x="94" y="540"> @&amp;*haCnf\//xXCOpdkM&amp;#Mak*#8%8ModZQzjjrvzvuYOmf\zf(}{\Xw*%@ </text>
-<text x="94" y="557">  B&amp;obkCnjfxc0da*oho*a*B8#a#MW&amp;8MawLvnvvvccQQ{t&gt;[f|[|cmh&amp;@  </text>
-<text x="94" y="574">   B&amp;kbpJvxuz00UzujjrrzQwLYJCJQwbhbQzuunvYQ0{i~-;{j\v0hWB   </text>
-<text x="94" y="591">    B&amp;kkdLvruJzvCzXYczzuncJCCUCCYCmJnunnuLC(&gt;&gt;i-+[zvOhWB    </text>
-<text x="94" y="608">     B&amp;aadCxxvxvCmZOwboabdkkbhawYYUrtjjuLn&gt;{~&lt;~?tfOwa&amp;B     </text>
-<text x="94" y="624">      @8*okQJzf|{\ununvXzzXCCUnjjxx(\fXX}"~)+-)\cOhM8@      </text>
-<text x="94" y="641">        BWMobOzx\{}(|{}({{\f\){1\xxtjXn!^I]t)/uQwo8B@       </text>
-<text x="94" y="658">         @88&amp;od0Yuf)(rvcuu|[][{/unvcQj!!+_/YX0qoW%@         </text>
-<text x="94" y="675">           @B@&amp;#hqOCzvzvnj)1}}|xXzCQc]}(tcLbk*&amp;%@           </text>
-<text x="94" y="692">              @B8&amp;#kwLYcnxttjfjrz0QLxjvY0d*&amp;8B@             </text>
-</g>
-<text x="94" y="752">
-<tspan fill="#1a7f37">$</tspan>
-<tspan fill="#1f2328"> whoami</tspan>
-</text>
-<text x="94" y="779">
-<tspan fill="#1f2328">Pintu Kumar</tspan>
-</text>
-<text x="94" y="806">
-<tspan fill="#59636e">Freelance Full-Stack Developer</tspan>
-</text>
-<text x="94" y="860">
-<tspan fill="#1a7f37">$</tspan>
-<tspan fill="#1f2328"> cat stack.txt</tspan>
-</text>
-<text x="94" y="887">
-<tspan fill="#0969da">React · TypeScript · Next.js · Tailwind</tspan>
-</text>
-<text x="94" y="914">
-<tspan fill="#0969da">Node.js · Express · Socket.io · REST APIs</tspan>
-</text>
-<text x="94" y="941">
-<tspan fill="#0969da">Python · FastAPI · SQLAlchemy · Pydantic</tspan>
-</text>
-<text x="94" y="968">
-<tspan fill="#0969da">PostgreSQL · MongoDB</tspan>
-</text>
-<text x="94" y="995">
-<tspan fill="#0969da">Docker · AWS · Render · Railway · CI/CD</tspan>
-</text>
-<text x="94" y="1022">
-<tspan fill="#0969da">AI — OpenAI · Anthropic · Nebius · Copilot</tspan>
-</text>
-<text x="94" y="1076">
-<tspan fill="#1a7f37">$</tspan>
-<tspan fill="#1f2328"> ./hire_me --open-for-work</tspan>
-</text>
-<text x="94" y="1103">
-<tspan fill="#1f2328">+ AI agents &amp; chatbots</tspan>
-</text>
-<text x="94" y="1130">
-<tspan fill="#1f2328">+ Voice apps &amp; Alexa skills</tspan>
-</text>
-<text x="94" y="1157">
-<tspan fill="#1f2328">+ Dashboards &amp; internal tools</tspan>
-</text>
-<text x="94" y="1184">
-<tspan fill="#1f2328">+ Full MVPs, idea to launch</tspan>
-</text>
-<text x="94" y="1238">
-<tspan fill="#1a7f37">$</tspan>
-<tspan fill="#1f2328"> open contact</tspan>
-</text>
-<text x="94" y="1265">
-<tspan fill="#9a6700">@ </tspan>
-<tspan fill="#1f2328">pksharmagh4@gmail.com</tspan>
-</text>
-<text x="94" y="1292">
-<tspan fill="#9a6700">in </tspan>
-<tspan fill="#0969da">linkedin.com/in/pintukumar12</tspan>
-</text>
-<text x="94" y="1319">
-<tspan fill="#9a6700">&gt; </tspan>
-<tspan fill="#0969da">pintukr.in</tspan>
-</text>
-<text x="94" y="1373"><tspan fill="#1a7f37">$ </tspan></text>
-<rect x="118" y="1360" width="10" height="17" fill="#1a7f37"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
-<rect x="0.5" y="0.5" width="679px" height="1443px" fill="none" stroke="#d0d7de" stroke-width="1" rx="15"/>
+<text x="340" y="27" fill="#57606a" font-size="13px" text-anchor="middle">pintu@github: ~/profile</text>
+<line x1="0" y1="42" x2="680" y2="42" stroke="#f6f8fa" stroke-width="1"/>
+<text x="28" y="60"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> whoami</tspan></text>
+<text x="28" y="84"><tspan fill="#24292f">Pintu Kumar</tspan></text>
+<text x="28" y="108"><tspan fill="#57606a">Freelance Full-Stack Developer</tspan></text>
+<text x="28" y="156"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> cat stack.txt</tspan></text>
+<text x="28" y="180"><tspan fill="#0969da">React · TypeScript · Next.js · Tailwind</tspan></text>
+<text x="28" y="204"><tspan fill="#0969da">Node.js · Express · Socket.io · REST APIs</tspan></text>
+<text x="28" y="228"><tspan fill="#0969da">Python · FastAPI · SQLAlchemy · Pydantic</tspan></text>
+<text x="28" y="252"><tspan fill="#0969da">PostgreSQL · MongoDB</tspan></text>
+<text x="28" y="276"><tspan fill="#0969da">Docker · AWS · Render · Railway · CI/CD</tspan></text>
+<text x="28" y="300"><tspan fill="#0969da">AI — OpenAI · Anthropic · Nebius · Copilot</tspan></text>
+<text x="28" y="348"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> ./hire_me --open-for-work</tspan></text>
+<text x="28" y="372"><tspan fill="#24292f">+ AI agents &amp; chatbots</tspan></text>
+<text x="28" y="396"><tspan fill="#24292f">+ Voice apps &amp; Alexa skills</tspan></text>
+<text x="28" y="420"><tspan fill="#24292f">+ Dashboards &amp; internal tools</tspan></text>
+<text x="28" y="444"><tspan fill="#24292f">+ Full MVPs, idea to launch</tspan></text>
+<text x="28" y="492"><tspan fill="#1a7f37">$</tspan><tspan fill="#24292f"> open contact</tspan></text>
+<text x="28" y="516"><tspan fill="#9a6700">@ </tspan><tspan fill="#24292f">pksharmagh4@gmail.com</tspan></text>
+<text x="28" y="540"><tspan fill="#9a6700">in </tspan><tspan fill="#0969da">linkedin.com/in/pintukumar12</tspan></text>
+<text x="28" y="564"><tspan fill="#9a6700">&gt; </tspan><tspan fill="#0969da">pintukr.in</tspan></text>
+<text x="28" y="612"><tspan fill="#1a7f37">$ </tspan></text>
+<rect x="52" y="599" width="9" height="17" fill="#1a7f37"/>
 </svg>
