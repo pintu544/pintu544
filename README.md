@@ -81,6 +81,7 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
   <a href="https://pintukr.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="https://devpost.com/pintu544"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
   <a href="https://leetcode.com/u/pintu870/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/user_w487"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="mailto:pksharmagh4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
