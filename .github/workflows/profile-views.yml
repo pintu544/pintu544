@@ -1,0 +1,50 @@
+name: Profile views badge
+
+# Self-hosted profile-views badge. GitHub's camo proxy kept caching failed
+# fetches from the slow third-party counter service, breaking the badge.
+# This job refreshes the count once a day and publishes a badge SVG to the
+# `output` branch, which the README serves from this repo instead.
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-views
+  cancel-in-progress: false
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate badge from the counter
+        run: python3 .github/scripts/update_views_badge.py profile-views.svg
+
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output-branch
+
+      - name: Publish badge to the output branch
+        run: |
+          if [ ! -f profile-views.svg ]; then
+            echo "Generator produced no badge (counter unreachable) - keeping yesterday's."
+            exit 0
+          fi
+          cp profile-views.svg output-branch/profile-views.svg
+          cd output-branch
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-views.svg
+          if git diff --cached --quiet; then
+            echo "Badge unchanged - no commit needed."
+          else
+            git commit -m "Update profile views badge"
+            git push
+          fi
