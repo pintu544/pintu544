@@ -35,8 +35,12 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 
 | Project | What it is | Links |
 |---|---|---|
-| **Interview Copilot** | Real-time AI voice interview assistant — CV-grounded answers via NVIDIA Nemotron | [Live demo](https://interview-copilot-p0pb.onrender.com) · [Code](https://github.com/pintu544/interview-copilot) |
-| **MarketPulse** | Alexa+ market-research skill — 12 MCP tools, AWS Bedrock, voice shopping | [Live demo](https://web-production-331d9.up.railway.app/) · [Code](https://github.com/pintu544/marketpulse) |
+| **Interview Copilot** | Real-time AI voice interview assistant — CV-grounded answers via NVIDIA Nemotron | [Live demo](https://interview-copilot-pabv.onrender.com) · [Code](https://github.com/pintu544/interview-copilot) |
+| **MarketPulse** | Alexa+ market-research skill — 12 MCP tools, AWS Bedrock, plus an agentic PayPal checkout loop | [Live demo](https://marketpulse-app.azurewebsites.net) · [Code](https://github.com/pintu544/marketpulse) |
+| **BlastRadius** | AI agent that maps a repo into a code graph, hunts risky patterns, and traces the blast radius of a change | [Live demo](https://blastradius-eosin.vercel.app) · [Code](https://github.com/pintu544/blastradius) |
+| **TokenTrace** | Meter, audit, and bill every AI API call — drop-in proxy + dashboard with Stripe metered billing | [Live demo](https://dashboard-one-beta-36.vercel.app) · [Code](https://github.com/pintu544/tokentrace) |
+| **Ledger Sloth** | Local-only CLI that categorizes bank statements, forecasts next month's spend, and flags the charge that doesn't belong — Gemma 3 + TabPFN, fully offline | [Code](https://github.com/pintu544/ledger-sloth) |
+| **CivicLens** | Community issue reporting with AI triage, department routing, and a public accountability map | [Live demo](https://civiclens-jet.vercel.app) · [Code](https://github.com/pintu544/civiclens) |
 | **SnapFix Studio** | AI photo transformer — background removal, outpainting, upscaling (Cloudinary) | [Live demo](https://snapfix-studio-production-9983.up.railway.app) · [Code](https://github.com/pintu544/snapfix-studio) |
 | **LiveDocs** | AI research agent comparing libraries using live documentation (SerpApi) | [Code](https://github.com/pintu544/livedocs-research-agent) |
 
