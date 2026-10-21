@@ -45,6 +45,10 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 - **[OWASP/cve-lite-cli #1297](https://github.com/OWASP/cve-lite-cli/pull/1297)** — `--json` now records cliVersion, scannedAt and the effective options, with a usage-capture + redaction design the maintainer called the bar for future work *(approved, awaiting merge)*
 - **[OWASP/cve-lite-cli #1330](https://github.com/OWASP/cve-lite-cli/pull/1330)** — making `--debug` emit one diagnostic bundle that's safe to attach (home-directory redaction) *(in review)*
 
+## ✍️ Writing
+
+- **[Weekend Agent Challenge: oops](https://builder.aws.com/content/3KbMku42tlsjj8i5tRN4fZnlRHp/weekend-agent-challenge-oops)** — my AWS Builder Center article on building a Bedrock-powered CLI that turns cryptic error messages into plain-English fixes.
+
 ## 📈 GitHub stats
 
 <p align="center">
