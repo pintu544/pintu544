@@ -21,6 +21,8 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 - 📊 Real-time dashboards & internal tools
 - 🚀 Full MVPs — from idea to deployed product
 
+💰 **Projects from $80** fixed-price · AI agents & chatbots from $90 — hire me on [Upwork](https://www.upwork.com/freelancers/pintufullstackai) or [Fiverr](https://www.fiverr.com/pintufullstack).
+
 📫 **Have a project in mind?** Mail me at [pksharmagh4@gmail.com](mailto:pksharmagh4@gmail.com) or ping me on [LinkedIn](https://www.linkedin.com/in/pintukumar12/).
 
 ## 🛠️ Tech stack
@@ -53,6 +55,10 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 
 - **[Weekend Agent Challenge: oops](https://builder.aws.com/content/3KbMku42tlsjj8i5tRN4fZnlRHp/weekend-agent-challenge-oops)** — my AWS Builder Center article on building a Bedrock-powered CLI that turns cryptic error messages into plain-English fixes.
 
+## 🎓 Certifications
+
+[CCEP — Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/exam-completion/809e745e8db1b880) (Red Team Leaders, 2026) · AI Associate (DataCamp) · Full Stack Developer (Udacity) · MERN Stack Developer (Coding Ninjas)
+
 ## 📈 GitHub stats
 
 <p align="center">
@@ -83,6 +89,8 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
   <a href="https://leetcode.com/u/pintu870/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/profile/user_w487"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://www.hackerrank.com/profile/pintukumarsharma"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://www.upwork.com/freelancers/pintufullstackai"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.fiverr.com/pintufullstack"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   <a href="mailto:pksharmagh4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
