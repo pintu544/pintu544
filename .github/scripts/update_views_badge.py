@@ -10,7 +10,7 @@ GitHub-hosted origin) removes that failure mode entirely.
 This script reads the current count from komarev (server-side, with
 retries) and renders a shields-style flat badge. Run daily by
 .github/workflows/profile-views.yml, which publishes the SVG to the
-`output` branch (same pattern as the snake animation).
+dedicated `profile-assets` branch.
 
 On any fetch/parse failure it exits without writing, so the workflow
 keeps yesterday's badge instead of publishing a broken one.
