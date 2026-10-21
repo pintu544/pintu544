@@ -59,27 +59,6 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 
 [CCEP — Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/exam-completion/809e745e8db1b880) (Red Team Leaders, 2026) · AI Associate (DataCamp) · Full Stack Developer (Udacity) · MERN Stack Developer (Coding Ninjas)
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=pintu544&theme=tokyonight" alt="Contribution streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu544&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pintu544/pintu544/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pintu544/pintu544/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ## 🤝 Let's connect
 
 <p>
