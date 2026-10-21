@@ -43,7 +43,7 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 | **TokenTrace** | Meter, audit, and bill every AI API call — drop-in proxy + dashboard with Stripe metered billing | [Live demo](https://dashboard-one-beta-36.vercel.app) · [Code](https://github.com/pintu544/tokentrace) |
 | **Ledger Sloth** | Local-only CLI that categorizes bank statements, forecasts next month's spend, and flags the charge that doesn't belong — Gemma 3 + TabPFN, fully offline | [Code](https://github.com/pintu544/ledger-sloth) |
 | **CivicLens** | Community issue reporting with AI triage, department routing, and a public accountability map | [Live demo](https://civiclens-jet.vercel.app) · [Code](https://github.com/pintu544/civiclens) |
-| **SnapFix Studio** | AI photo transformer — background removal, outpainting, upscaling (Cloudinary) | [Live demo](https://snapfix-studio-production-9983.up.railway.app) · [Code](https://github.com/pintu544/snapfix-studio) |
+| **SnapFix Studio** | AI photo transformer — background removal, outpainting, upscaling (Cloudinary) | [Live demo](https://snapfix-studio.vercel.app) · [Code](https://github.com/pintu544/snapfix-studio) |
 | **LiveDocs** | AI research agent comparing libraries using live documentation (SerpApi) | [Code](https://github.com/pintu544/livedocs-research-agent) |
 
 ## 🤝 Open source
