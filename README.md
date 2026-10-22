@@ -49,7 +49,7 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 ## 🤝 Open source
 
 - **[OWASP/cve-lite-cli #1297](https://github.com/OWASP/cve-lite-cli/pull/1297)** — `--json` now records cliVersion, scannedAt and the effective options, with a usage-capture + redaction design the maintainer called the bar for future work ✅ **merged**
-- **[OWASP/cve-lite-cli #1330](https://github.com/OWASP/cve-lite-cli/pull/1330)** — making `--debug` emit one diagnostic bundle that's safe to attach (home-directory redaction) ✅ **approved by maintainer, awaiting merge**
+- **[OWASP/cve-lite-cli #1330](https://github.com/OWASP/cve-lite-cli/pull/1330)** — making `--debug` emit one diagnostic bundle that's safe to attach (home-directory redaction) ✅ **merged**
 - **[json5 #407](https://github.com/json5/json5/pull/407)** — preserving native `JSON.parse` behavior in JSON5.parse when a reviver rejects a mutation (Reflect-based fix) ✅ **approved by maintainer, awaiting merge**
 
 *Also in review: PRs to MUI Base UI, Mocha, tsx, NextAuth, Knex, happy-dom, Pino, and better-auth.*
