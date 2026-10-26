@@ -57,6 +57,7 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 ## ✍️ Writing
 
 - **[Weekend Agent Challenge: oops](https://builder.aws.com/content/3KbMku42tlsjj8i5tRN4fZnlRHp/weekend-agent-challenge-oops)** — my AWS Builder Center article on building a Bedrock-powered CLI that turns cryptic error messages into plain-English fixes.
+- **[Giving my research agent a memory: an S3 evidence archive](https://builder.aws.com/project/3L5M8eD4zCigfWSaXqwlPt7Upj4/giving-my-research-agent-a-memory-an-s3-evidence-archive)** — my AWS Builder Center project (Weekend Challenge: Give your Agent a Tool) on giving the LiveDocs research agent an S3 evidence archive, so every cited claim keeps its source.
 
 ## 🎓 Certifications
 
