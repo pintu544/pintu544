@@ -62,7 +62,22 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 
 ## 🎓 Certifications
 
-[CCEP — Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/exam-completion/809e745e8db1b880) (Red Team Leaders, 2026) · AI Associate (DataCamp) · Full Stack Developer (Udacity) · MERN Stack Developer (Coding Ninjas)
+**Best picks (from LinkedIn — current, verified, most relevant to full-stack + AI work):**
+
+- [CCEP — Certified Cybersecurity Educator Professional](https://courses.redteamleaders.com/exam-completion/809e745e8db1b880) (Red Team Leaders, Oct 2026)
+- Future AWS Agentic AI Business Professional (Udacity, Aug 2026)
+- AWS AI Practitioner Challenge (Udacity, May 2026)
+- AI Engineer for Developers Associate (DataCamp, Oct 2025 – Oct 2027)
+- SQL Associate (DataCamp, Oct 2025 – Oct 2027)
+- API Design in Node.js, v5 (Master.dev, Aug 2026)
+- React Performance, v2 (Master.dev, Sep 2026)
+- Claude Code (Master.dev, Sep 2026)
+- Introduction to MongoDB (Master.dev, Sep 2026)
+- Front End Developer (Udacity, Dec 2022)
+
+Also: AI Associate (DataCamp) · Full Stack Developer (Udacity) · MERN Stack Developer (Coding Ninjas)
+
+Education: BTech, Computer Science and Engineering — Kurukshetra University (2018–2022)
 
 ## 🤝 Let's connect
 
