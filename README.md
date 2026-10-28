@@ -52,6 +52,7 @@ I'm a **Full-Stack Developer (3+ years)** from Mumbai, India. I help startups an
 - **[OWASP/cve-lite-cli #1330](https://github.com/OWASP/cve-lite-cli/pull/1330)** — making `--debug` emit one diagnostic bundle that's safe to attach (home-directory redaction) ✅ **merged**
 - **[json5 #407](https://github.com/json5/json5/pull/407)** — preserving native `JSON.parse` behavior in JSON5.parse when a reviver rejects a mutation (Reflect-based fix) ✅ **merged**
 - **[supabase/supabase-js #2789](https://github.com/supabase/supabase-js/pull/2789)** — storage uploads no longer break when optional upload options are undefined ✅ **merged**
+- **[tox-dev/filelock #880](https://github.com/tox-dev/filelock/pull/880)** — importing filelock now raises clearly when a read-write lock module is missing, instead of failing obscurely ✅ **merged**
 
 *Also in review: PRs to MUI Base UI, Mocha, tsx, NextAuth, Knex, happy-dom, Pino, and better-auth.*
 
